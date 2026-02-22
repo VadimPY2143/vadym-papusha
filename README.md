@@ -4,8 +4,6 @@
 
 - 👯 Highly interested in working on EdTech / HealthTech / FoodTech / FinTech / others with a long-term period
 - 💬 Ask me about Python, Django, FastAPI, Flask, Redis, Celery etc.
-- 😄 Pronouns: he/him
-
 
 My Languages and tools
 
