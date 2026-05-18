@@ -34,4 +34,4 @@ My Languages and tools
 <code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" title="C++"/></code>
 <code><img width="30" src="https://play-lh.googleusercontent.com/ekpyJiZppMBBxCR5hva9Zz1pr3MYlFP-vWTYR3eIU7HOMAmg3jCJengHJ1GFgFMyyYc" alt="Flask" title="Flask"/></code>
 
-Things I enjoy to do besides coding: gym🏋‍♂️ and learning languages🇬🇧🇵🇱🇩🇪
+Things I enjoy to do besides coding: gym🏋‍♂️ and learning languages🇬🇧🇵🇱
